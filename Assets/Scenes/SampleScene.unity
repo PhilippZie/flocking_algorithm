@@ -338,9 +338,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agentPrefab: {fileID: 6719504189231699498, guid: 7d76956202c6abb42be72c69acf8a9ce, type: 3}
-  behaviour: {fileID: 11400000, guid: 882cb4f35193fa64f8245f978e6cf931, type: 2}
+  behaviour: {fileID: 11400000, guid: a0cbc090c7f31434f8531e8b93726abf, type: 2}
   target: {fileID: 2081458577}
   followTarget: 0
+  spawnPoint: {x: 10, y: 0, z: 0}
   startingCount: 226
   agentDensity: 0.033
   driveFactor: 10
