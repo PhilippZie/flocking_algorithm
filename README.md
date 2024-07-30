@@ -1,0 +1,1 @@
+This is a 3D Flocking Algorithm I developed for a University project in Unity. It instantiates a Flock of let's say birds (it's just spheres), and they show similar behaviour than birds in general. It is also possible for them to follow a target.
